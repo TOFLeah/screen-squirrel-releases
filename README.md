@@ -2,7 +2,9 @@
 
 Downloads for **Screen Squirrel**, a small, friendly squirrel that lives on your Windows desktop. No account, no ads, no analytics. This repository holds only installers and release notes.
 
-Get the latest installer from [Releases](https://github.com/TOFLeah/screen-squirrel-releases/releases/latest): download the `…_x64-setup.exe` file (for example `Screen.Squirrel.v2_0.2.0_x64-setup.exe`) and run it. It installs for your user only, with no admin prompt.
+Get the latest installer from [Releases](https://github.com/TOFLeah/screen-squirrel-releases/releases/latest): download the `…_x64-setup.exe` file (for example `Screen.Squirrel.v2_0.2.1_x64-setup.exe`) and run it. It installs for your user only, with no admin prompt.
+
+For the original **v1** build (offline only, no chat), use the [v1.0.1 release](https://github.com/TOFLeah/screen-squirrel-releases/releases/tag/v1.0.1) instead of Latest.
 
 ## "Windows protected your PC"
 
